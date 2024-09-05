@@ -8,8 +8,7 @@
 
 - :telescope: Fullstack Web Developer | Back-End Specialist
 - :heart: Open Source Software
-- :monocle_face: Passionate about **Software Development, Web Security, and
-  Blockchain**
+- :monocle_face: Passionate about **Software Development, Web Security, and Blockchain**
 - :seedling: Continuously learning and growing
 - :speech_balloon: Ask me about **JavaScript/TypeScript, Go, and PHP**
 - :handshake: Open to collaborating on Web Applications
@@ -23,71 +22,70 @@
 
 ### Framework/Tools
 
-<table style="width: 100%">
-  <colgroup span="4" style="width: 25%;"></colgroup>
+<table>
   <thead>
     <tr>
-      <th style="text-align: center; vertical-align: middle;">
+      <th align="center">
         Front End
       </th>
-      <th style="text-align: center; vertical-align: middle;">
+      <th align="center">
         Back End
       </th>
-      <th style="text-align: center; vertical-align: middle;">
+      <th align="center">
         Database
       </th>
-      <th style="text-align: center; vertical-align: middle;">
+      <th align="center">
         Other
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium">
       </td>
     </tr>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" />
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">
       </td>
-      <td style="text-align: center; vertical-align: middle;">
+      <td align="center">
         <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">
       </td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
-      <th colspan="4" style="text-align: center; vertical-align: middle;">
+      <th colspan="4" align="center">
         Top 3 tools I use (no particular order)
       </th>
     </tr>
