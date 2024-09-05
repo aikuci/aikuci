@@ -8,7 +8,8 @@
 
 - :telescope: Fullstack Web Developer | Back-End Specialist
 - :heart: Open Source Software
-- :monocle_face: Passionate about **Software Development, Web Security, and Blockchain**
+- :monocle_face: Passionate about **Software Development, Web Security, and
+  Blockchain**
 - :seedling: Continuously learning and growing
 - :speech_balloon: Ask me about **JavaScript/TypeScript, Go, and PHP**
 - :handshake: Open to collaborating on Web Applications
@@ -42,44 +43,68 @@
   <tbody>
     <tr>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">
+        <a href="https://vuejs.org/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js" alt="vue">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">
+        <a href="https://hono.dev/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono" alt="hono">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql">
+        <a href="https://www.postgresql.org/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql" alt="postgresql">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js">
-      </td>
-      <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">
-      </td>
-      <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">
-      </td>
-      <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium">
+        <a href="https://www.docker.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker" alt="docker">
+        </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">
+        <a href="https://nuxt.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js" alt="nuxt">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" />
+        <a href="https://expressjs.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express" alt="express">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">
+        <a href="https://redis.io/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis" alt="redis">
+        </a>
       </td>
       <td align="center">
-        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">
+        <a href="https://www.selenium.dev/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium" alt="selenium">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://astro.build/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro" alt="astro">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://gofiber.io/">
+          <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" alt="fiber">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mongodb.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb" alt="mongo">
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://d3js.org/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js" alt="d3">
+        </a>
       </td>
     </tr>
   </tbody>
