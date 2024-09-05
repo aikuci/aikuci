@@ -20,10 +20,75 @@
     <img src="https://skillicons.dev/icons?i=js,ts,go,php" />
 </div>
 
-### Framework/Tools (Top 3)
+### Framework/Tools
 
-|                                  FrontEnd                                  |                                    Backend                                    |                                      DB                                       |                                    Other                                    |
-| :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">  |    <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">    | <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql"> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">  |
-| <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js"> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">   |   <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">    | <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium"> |
-|  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">  | <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" /> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">   |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">   |
+<table style="width: 100%">
+  <colgroup span="4" style="width: 25%;"></colgroup>
+  <thead>
+    <tr>
+      <th style="text-align: center; vertical-align: middle;">
+        Front End
+      </th>
+      <th style="text-align: center; vertical-align: middle;">
+        Back End
+      </th>
+      <th style="text-align: center; vertical-align: middle;">
+        Database
+      </th>
+      <th style="text-align: center; vertical-align: middle;">
+        Other
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" />
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+        <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th colspan="4" style="text-align: center; vertical-align: middle;">
+        Top 3 tools I use (no particular order)
+      </th>
+    </tr>
+  </tfoot>
+</table>
