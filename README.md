@@ -22,54 +22,8 @@
 
 ### Framework/Tools (Top 3)
 
-<div style="display: flex;">
-
-<div style="flex-basis: 25%;">
-
-#### FrontEnd
-
-<div style="display: flex; align-items: center; pointer-events: none; gap: 8px;">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">
-</div>
-
-</div>
-
-<div style="flex-basis: 25%;">
-
-#### BackEnd
-
-<div style="display: flex; align-items: center; pointer-events: none; gap: 8px;">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">
-  <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" />
-</div>
-
-</div>
-
-<div style="flex-basis: 25%;">
-
-#### DB
-
-<div style="display: flex; align-items: center; pointer-events: none; gap: 8px;">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">
-</div>
-
-</div>
-
-<div style="flex-basis: 25%;">
-
-#### Others
-
-<div style="display: flex; align-items: center; pointer-events: none; gap: 8px;">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium">
-  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">
-</div>
-
-</div>
-
-</div>
+|                                  FrontEnd                                  |                                    Backend                                    |                                      DB                                       |                                    Other                                    |
+| :------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| <img loading="lazy" height="40" src="https://cdn.simpleicons.org/vue.js">  |    <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono">    | <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql"> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker">  |
+| <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js"> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express">   |   <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis">    | <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium"> |
+|  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/astro">  | <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" /> |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb">   |  <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js">   |
