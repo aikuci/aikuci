@@ -6,18 +6,19 @@
   <a href="https://www.linkedin.com/in/muhammad-achsan-hujjatul-islam">LinkedIn</a>
 </p>
 
-- :technologist: Fullstack Web Developer, Back-End Specialist
-- :monocle_face: Interested in **Software Development**, **Web Security** and
-  **Blockchain**
-- :seedling: Keep learning and keep growing
+- :telescope: Fullstack Web Developer | Back-End Specialist
 - :heart: Open Source Software
-- :speech_balloon: Let's discuss about **JS/TS, Go and PHP**
-- :handshake: Let's collaborate on building Web Applications
+- :monocle_face: Passionate about **Software Development, Web Security, and
+  Blockchain**
+- :seedling: Continuously learning and growing
+- :speech_balloon: Ask me about **JavaScript/TypeScript, Go, and PHP**
+- :handshake: Open to collaborating on Web Applications
+- :zap: Using this :zap: emoji, but not sure what to do with it
 
 ### Programming Languages
 
 <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,go,php" />
+  <img src="https://skillicons.dev/icons?i=js,ts,go,php" />
 </div>
 
 ### Framework/Tools
