@@ -58,8 +58,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.docker.com/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker" alt="docker">
+        <a href="https://git-scm.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/git" alt="git">
         </a>
       </td>
     </tr>
@@ -70,8 +70,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://expressjs.com/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/express" alt="express">
+        <a href="https://nestjs.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nestjs" alt="nestjs">
         </a>
       </td>
       <td align="center">
@@ -80,8 +80,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.selenium.dev/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium" alt="selenium">
+        <a href="https://www.docker.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/docker" alt="docker">
         </a>
       </td>
     </tr>
@@ -102,8 +102,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://d3js.org/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/d3.js" alt="d3">
+        <a href="https://www.selenium.dev/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/selenium" alt="selenium">
         </a>
       </td>
     </tr>
