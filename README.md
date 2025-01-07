@@ -6,14 +6,13 @@
   <a href="https://www.linkedin.com/in/muhammad-achsan-hujjatul-islam">LinkedIn</a>
 </p>
 
-- :telescope: Fullstack Web Developer | Back-End Specialist
+- :telescope: Fullstack Web Developer
 - :heart: Open Source Software
 - :monocle_face: Passionate about **Software Development, Web Security, and
   Blockchain**
 - :seedling: Continuously learning and growing
 - :speech_balloon: Ask me about **JavaScript/TypeScript, Go, and PHP**
 - :handshake: Open to collaborating on Web Applications
-- :zap: Using this :zap: emoji, but not sure what to do with it
 
 ### Programming Languages
 
@@ -33,9 +32,6 @@
         Back End
       </th>
       <th align="center">
-        Database
-      </th>
-      <th align="center">
         Other
       </th>
     </tr>
@@ -48,13 +44,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://hono.dev/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono" alt="hono">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.postgresql.org/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/postgresql" alt="postgresql">
+        <a href="https://deno.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/deno" alt="deno">
         </a>
       </td>
       <td align="center">
@@ -66,17 +57,12 @@
     <tr>
       <td align="center">
         <a href="https://nuxt.com/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt.js" alt="nuxt">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nuxt" alt="nuxt">
         </a>
       </td>
       <td align="center">
-        <a href="https://nestjs.com/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nestjs" alt="nestjs">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://redis.io/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/redis" alt="redis">
+        <a href="https://hono.dev/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/hono" alt="hono">
         </a>
       </td>
       <td align="center">
@@ -92,13 +78,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://gofiber.io/">
-          <img loading="lazy" height="40" src="https://docs.gofiber.io/img/logo.svg" alt="fiber">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.mongodb.com/">
-          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/mongodb" alt="mongo">
+        <a href="https://nestjs.com/">
+          <img loading="lazy" height="40" src="https://cdn.simpleicons.org/nestjs" alt="nestjs">
         </a>
       </td>
       <td align="center">
@@ -110,7 +91,7 @@
   </tbody>
   <tfoot>
     <tr>
-      <th colspan="4" align="center">
+      <th colspan="3" align="center">
         Top 3 tools I use (no particular order)
       </th>
     </tr>
